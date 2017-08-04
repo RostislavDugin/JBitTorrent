@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <param name="context" value="./example/net.sourceforge.projects.bitext.tracker/"/>
+  <param name="torrentXML" value="./example/net.sourceforge.projects.bitext.tracker/files/torrents.xml"/>
+  <param name="peerXML" value="./example/net.sourceforge.projects.bitext.tracker/files/peers.xml"/>
+  <param name="listeningPort" value="8081"/>
+  <param name="servername" value="JBitTorrentAPI Tracker"/>
+  <param name="torrentsDir" value="./example/net.sourceforge.projects.bitext.tracker/files/torrentsFile/"/>
+</config>
