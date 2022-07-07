@@ -126,7 +126,7 @@
             <groupId>xalan</groupId>
             <artifactId>xalan</artifactId>
             <scope>system</scope>
-            <version>1.0</version>
+            <version>2.7.2</version>
             <systemPath>${project.basedir}/libs/xalan.jar</systemPath>
         </dependency>
 
